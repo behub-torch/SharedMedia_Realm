@@ -1,0 +1,7 @@
+## Interface: 90100
+## Title: |cFFFFFF00<Realm Soundpack> 1.1|r |cff69ccf0by Torch|r
+
+libs\LibStub\LibStub.lua
+libs\CallbackHandler-1.0\CallbackHandler-1.0.lua
+embeds.xml
+Soundpaths.lua 
